@@ -4,4 +4,4 @@ In the jupyter notebook, a Qiskit function called <em>qsp_circuit</em> is define
 
 The construction is based on induction on the number of qubits $n$. For small values of $n$ such as $1$ and $2$, I used $R_Z$ rotation gates and their controlled versions, with the phases obtained from the inverse cosine function and the coordinates of the vector. 
 
-This was a project that I completed during the Quantum Computing Bootcamp at [the Erdős Institute](https://www.erdosinstitute.org/) during summer 2025. The problem was proposed by [Dr. Ákos Nagy](https://akosnagy.com/).  
+I did this project during the Quantum Computing Bootcamp at [the Erdős Institute](https://www.erdosinstitute.org/) in summer 2025. The problem itself was proposed by [Dr. Ákos Nagy](https://akosnagy.com/).  
